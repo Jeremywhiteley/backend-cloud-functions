@@ -39,7 +39,7 @@
     "@google-cloud/logging": "^5.5.5",
     "@google-cloud/storage": "^3.0.3",
     "@google-cloud/trace-agent": "^4.2.4",
-    "@google/maps": "^0.5.5",
+    "@google/maps": "^1.0.2",
     "@sendgrid/mail": "^6.4.0",
     "csvtojson": "^2.0.10",
     "dinero.js": "^1.6.0",
