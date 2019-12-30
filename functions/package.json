@@ -36,7 +36,7 @@
   "repository": "https://github.com/Growthfilev2/backend-cloud-functions/",
   "readme": "https://github.com/Growthfilev2/backend-cloud-functions/blob/master/README.md",
   "dependencies": {
-    "@google-cloud/logging": "^5.5.5",
+    "@google-cloud/logging": "^6.0.0",
     "@google-cloud/storage": "^3.0.3",
     "@google-cloud/trace-agent": "^4.2.4",
     "@google/maps": "^0.5.5",
